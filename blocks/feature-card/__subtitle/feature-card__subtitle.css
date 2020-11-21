@@ -1,0 +1,7 @@
+.feature-card__subtitle {
+  margin: 0;
+  font-size: 14px;
+  line-height: 36px;
+  color: white;
+  z-index: 2;
+}

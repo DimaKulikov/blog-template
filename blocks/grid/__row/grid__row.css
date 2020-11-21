@@ -1,0 +1,5 @@
+.grid__row {
+  margin: -15px;
+  display: flex;
+  flex-wrap: wrap;
+}

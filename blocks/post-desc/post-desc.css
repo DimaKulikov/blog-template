@@ -1,0 +1,10 @@
+
+.post-desc {
+  padding-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.post-desc:last-of-type {
+  padding-bottom: 67px;
+}

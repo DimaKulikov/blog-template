@@ -1,0 +1,8 @@
+.search-btn {
+  width: 17px;
+  height: 17px;
+  background-image: url(../../img/search.svg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

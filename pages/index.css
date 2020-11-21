@@ -1,0 +1,154 @@
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* Logo */
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__text/logo__text.css);
+@import url(../blocks/logo/__label/logo__label.css);
+
+/* Menu */
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__item/menu__item.css);
+@import url(../blocks/search-btn/search-btn.css);
+
+/* Grid */
+
+@import url(../blocks/grid/grid.css);
+@import url(../blocks/grid/__col/grid__col.css);
+@import url(../blocks/grid/__col/_3/grid__col_3.css);
+@import url(../blocks/grid/__col/_4/grid__col_4.css);
+@import url(../blocks/grid/__col/_6/grid__col_6.css);
+@import url(../blocks/grid/__col/_8/grid__col_8.css);
+@import url(../blocks/grid/__row/grid__row.css);
+@import url(../blocks/grid/__row/grid__row_space-between.css);
+
+/* Label */
+
+@import url(../blocks/label/label.css);
+
+/* Button */
+
+@import url(../blocks/button/button.css);
+
+/* Text paragraph */
+
+@import url(../blocks/paragraph/paragraph.css);
+
+/* Input field */
+
+@import url(../blocks/input/input.css);
+@import url(../blocks/input/input_dark.css);
+
+/* Page */
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__content-wrapper/page__content-wrapper.css);
+@import url(../blocks/page/__header-wrapper/page__header-wrapper.css);
+@import url(../blocks/page/__footer-wrapper/page__footer-wrapper.css);
+@import url(../blocks/page/__footer-nav-wrapper/page__footer-nav-wrapper.css);
+
+/* Header */
+
+@import url(../blocks/header/header.css);
+
+/* Feature cards */
+
+@import url(../blocks/feature-card/feature-card.css);
+@import url(../blocks/feature-card/_size/feature-card_size_half.css);
+@import url(../blocks/feature-card/__gradient/feature-card__gradient.css);
+@import url(../blocks/feature-card/__label/feature-card__label.css);
+@import url(../blocks/feature-card/__pic/feature-card__pic.css);
+@import url(../blocks/feature-card/__subtitle/feature-card__subtitle.css);
+@import url(../blocks/feature-card/__subtitle/_size/feature-card__subtitle_size_half.css);
+@import url(../blocks/feature-card/__tilte/feature-card__title.css);
+@import url(../blocks/feature-card/__tilte/_size/feature-card__title_size_half.css);
+
+/* Blog */
+@import url(../blocks/blog/blog.css);
+
+/* Post with description */
+
+@import url(../blocks/post-desc/post-desc.css);
+@import url(../blocks/post-desc/__pic/post-desc__pic.css);
+@import url(../blocks/post-desc/__description/post-desc__description.css);
+@import url(../blocks/post-desc/__heading/post-desc__heading.css);
+@import url(../blocks/post-desc/__subheading/post-desc__subheading.css);
+@import url(../blocks/post-desc/__text/post-desc__text.css);
+
+/* Pagination */
+@import url(../blocks/pagination/pagination.css);
+@import url(../blocks/pagination/__btn/pagination__btn.css);
+@import url(../blocks/pagination/__btn/pagination__btn_active.css);
+@import url(../blocks/pagination/__btn/pagination__btn_disabled.css);
+
+/* Sidebar */
+
+@import url(../blocks/sidebar/sidebar.css);
+@import url(../blocks/sidebar/__heading/sidebar__heading.css);
+@import url(../blocks/sidebar/__post/sidebar__post.css);
+
+/* Popular post */
+
+@import url(../blocks/post-pop/post-pop.css);
+@import url(../blocks/post-pop/__pic/post-pop__pic.css);
+@import url(../blocks/post-pop/__label/post-pop__label.css);
+@import url(../blocks/post-pop/__heading/post-pop__heading.css);
+@import url(../blocks/post-pop/__subheading/post-pop__subheading.css);
+
+/* About us sidebar widget */
+
+@import url(../blocks/about-us-widget/about-us-widget.css);
+@import url(../blocks/about-us-widget/__pic/about-us-widget__pic.css);
+@import url(../blocks/about-us-widget/__heading/about-us-widget__heading.css);
+@import url(../blocks/about-us-widget/__subheading/about-us-widget__subheading.css);
+@import url(../blocks/about-us-widget/__text/about-us-widget__text.css);
+@import url(../blocks/about-us-widget/__btn/about-us-widget__btn.css);
+
+/* Instagram grid */
+
+@import url(../blocks/insta-grid/insta-grid.css);
+@import url(../blocks/insta-grid/__item/insta-grid__item.css);
+
+/* List of tags */
+
+@import url(../blocks/tags/tags.css);
+@import url(../blocks/tags/__item/tags__item.css);
+
+/* Newsletter form */
+
+@import url(../blocks/newsletter/newsletter.css);
+@import url(../blocks/newsletter/__input/newsletter__input.css);
+@import url(../blocks/newsletter/__form/newsletter__form.css);
+@import url(../blocks/newsletter/__paragraph/newsletter__paragraph.css);
+
+/* Popular page section */
+
+@import url(../blocks/popular/popular.css);
+@import url(../blocks/popular/__heading/popular__heading.css);
+
+/* Footer */
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__heading/footer__heading.css);
+@import url(../blocks/footer/__text/footer__text.css);
+
+/* Social icons */
+
+@import url(../blocks/social-icons/social-icons.css);
+@import url(../blocks/social-icons/__item/social-icons__item.css);
+
+/* A recent post */
+
+@import url(../blocks/post-recent/post-recent.css);
+@import url(../blocks/post-recent/__heading/post-recent__heading.css);
+@import url(../blocks/post-recent/__pic/post-recent__pic.css);
+@import url(../blocks/post-recent/__subheading/post-recent__subheading.css);
+@import url(../blocks/post-recent/__text/post-recent__text.css);
+
+/* Footer navigation */
+
+@import url(../blocks/footer-nav/footer-nav.css);
+@import url(../blocks/footer-nav/__copy/footer-nav__copy.css);

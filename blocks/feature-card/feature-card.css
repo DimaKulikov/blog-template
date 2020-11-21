@@ -1,0 +1,12 @@
+.feature-card {
+  position: relative;
+  height: 560px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-sizing: border-box;
+  padding: 30px 20px 30px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}

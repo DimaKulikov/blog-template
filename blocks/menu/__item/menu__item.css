@@ -1,0 +1,10 @@
+.menu__item {
+  margin-right: 30px;
+  font-size: 14px;
+  text-decoration: none;
+  color: white;
+}
+
+.menu__item:last-of-type {
+  margin-right: 0;
+}

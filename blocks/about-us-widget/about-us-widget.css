@@ -1,0 +1,4 @@
+.about-us-widget {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,10 @@
+.label {
+  padding: 4px 12px;
+  background-color: #4A90E2;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  color: white;
+}

@@ -1,0 +1,7 @@
+.sidebar__post {
+  margin-bottom: 39px;
+}
+
+.sidebar__post:last-of-type {
+  margin-bottom: 0;
+}

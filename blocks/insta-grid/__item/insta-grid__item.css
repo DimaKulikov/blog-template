@@ -1,0 +1,8 @@
+.insta-grid__item {
+  padding: 5px;
+  width: 130px;
+  height: 130px;    
+  object-fit: cover;
+  object-position: center;
+  border-radius: 9px;
+}

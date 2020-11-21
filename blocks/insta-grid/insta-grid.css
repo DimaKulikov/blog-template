@@ -1,0 +1,6 @@
+.insta-grid {
+  margin: -5px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}

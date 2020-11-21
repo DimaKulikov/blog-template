@@ -1,0 +1,7 @@
+.about-us-widget__pic {
+  width: 270px;
+  height: 200px;
+  border-radius: 5px;
+  object-fit: cover;
+  object-position: center;
+}

@@ -1,0 +1,8 @@
+.post-recent {
+  padding-bottom: 25px;
+  display: flex;
+}
+
+.post-recent:last-child {
+  padding-bottom: 0;
+}

@@ -1,0 +1,9 @@
+.tags__item {
+  margin: 5px;  
+  padding: 6px 16px;
+  border-radius: 3px;
+  background-color: #ebebeb;  
+  font-size: 14px;
+  line-height: 18px;
+  text-decoration: none;
+}

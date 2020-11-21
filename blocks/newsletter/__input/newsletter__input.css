@@ -1,0 +1,7 @@
+.newsletter__input {
+  margin-bottom: 10px;
+}
+
+.newsletter__input:last-child {
+  margin-bottom: 0;
+}

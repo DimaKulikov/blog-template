@@ -1,0 +1,16 @@
+.social-icons__item {
+  margin-right: 15px;
+  width: 34px;
+  height: 34px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #343434;
+  color: white;
+  text-decoration: none;
+}
+
+.social-icons__item:last-child {
+  margin-right: 0;
+}
